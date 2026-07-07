@@ -29,7 +29,8 @@ flat_names = [i + ' ' + j for sub in names for i, j in sub]
 print(flat_names)
 
 
-def slope(x1, x2, y1, y2): return (y2-y1)/(x2-x1)
+def slope(x1, x2, y1, y2):
+    return (y2 - y1) / (x2 - x1)
 
 
 print(slope(1, 2, 3, 4))
