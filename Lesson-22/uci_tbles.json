@@ -1,0 +1,85 @@
+{
+    "source_url": "https://archive.ics.uci.edu/dataset/53/iris",
+    "status": "success",
+    "tables_extracted": 2,
+    "data": [
+        {
+            "table_index": 0,
+            "rows": [
+                [
+                    "Variable Name",
+                    "Role",
+                    "Type",
+                    "Description",
+                    "Units",
+                    "Missing Values"
+                ],
+                [
+                    "sepal length",
+                    "Feature",
+                    "Continuous",
+                    "",
+                    "cm",
+                    "no"
+                ],
+                [
+                    "sepal width",
+                    "Feature",
+                    "Continuous",
+                    "",
+                    "cm",
+                    "no"
+                ],
+                [
+                    "petal length",
+                    "Feature",
+                    "Continuous",
+                    "",
+                    "cm",
+                    "no"
+                ],
+                [
+                    "petal width",
+                    "Feature",
+                    "Continuous",
+                    "",
+                    "cm",
+                    "no"
+                ],
+                [
+                    "class",
+                    "Target",
+                    "Categorical",
+                    "class of iris plant: Iris Setosa, Iris Versicolour, or Iris Virginica",
+                    "",
+                    "no"
+                ]
+            ]
+        },
+        {
+            "table_index": 1,
+            "rows": [
+                [
+                    "File",
+                    "Size"
+                ],
+                [
+                    "bezdekIris.data",
+                    "4.4 KB"
+                ],
+                [
+                    "iris.data",
+                    "4.4 KB"
+                ],
+                [
+                    "iris.names",
+                    "2.9 KB"
+                ],
+                [
+                    "Index",
+                    "105 Bytes"
+                ]
+            ]
+        }
+    ]
+}
